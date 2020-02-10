@@ -1,0 +1,53 @@
+http://techieme.in/memory-layout-of-java-virtual-machine/
+https://www.geeksforgeeks.org/java-memory-management/
+https://www.slideshare.net/mmitran/ibm-java-packed-objects-mmit-20121120
+java packed objects
+
+
+dart lnaguage 
+: why and when Go ?
+https://dart.dev/samples
+
+ceatea a segment in your program in c++
+https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/
+
+statically typed 
+https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7
+
+
+Functional programming 
+haskell
+vs other allowing functional type
+
+
+JS MDS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://en.wikipedia.org/wiki/Dart_(programming_language)
+
+https://stackoverflow.com/questions/31365149/working-with-js-polymorphism-method-overriding
+http://csharp-video-tutorials.blogspot.com/2015/02/polymorphism-in-javascript_14.html
+
+green thread 
+fopreground thread
+daoemon thread
+background thread
+UI thread
+
+https://www.javascripttutorial.net/create-objects-in-javascript/
+
+https://data-flair.training/blogs/javascript-objects/
+
+https://davidshariff.com/blog/javascript-inheritance-patterns/
+	
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+https://www.tutorialsteacher.com/javascript/prototype-in-javascript
+
+garbacge collection
+
+https://www.w3resource.com/java-tutorial/garbage-collection-in-java.php
+https://www.dynatrace.com/resources/ebooks/javabook/impact-of-garbage-collection-on-performance/
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/generations.html
+
