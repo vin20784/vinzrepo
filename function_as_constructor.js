@@ -18,12 +18,7 @@ var vinayak = new Emp.prototype.constructor(3, 'vinayak');
 // same as above
 var vinayak = new Emp(3, 'vinayak');
 //same?
-
-
-
-
 //vinayak.salary = 100000;
-
 //bredon.printme();
 //vinayak.printme();
 console.table(vinayak);
