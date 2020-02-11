@@ -51,3 +51,248 @@ https://www.dynatrace.com/resources/ebooks/javabook/impact-of-garbage-collection
 
 https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/generations.html
 
+New Tab
+chrome://newtab/
+
+kim_section4.pdf
+https://courses.cs.washington.edu/courses/cse451/11sp/section/kim_section4.pdf
+
+what is thread - Google Search
+https://www.google.com/search?q=what+is+thread&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNSOyGZIVDOjaA77hHLZ_1BLy5zQGA:1580892264956&tbm=isch&source=iu&ictx=1&fir=W4WlBVGW421NeM%253A%252CF4s9WXJlowX6sM%252C_&vet=1&usg=AI4_-kTNnwJ544-j9zqk6dY2T2VJ55_5uw&sa=X&ved=2ahUKEwj40oXPgrrnAhVo63MBHWUgAuUQ_h0wHHoECAkQBQ#imgrc=W4WlBVGW421NeM:
+
+ch04.ppt
+http://www2.latech.edu/~box/os/ch04.pdf
+
+how thread works - Google Search
+https://www.google.com/search?q=how+thread+works&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNQ0mgoCSc-cab01HUsOVOy9eMipkQ:1580892422594&tbm=isch&source=iu&ictx=1&fir=As8I43MoDsx2yM%253A%252CJwVlvcg3ShnBlM%252C_&vet=1&usg=AI4_-kR0awY9fP6Xn8cBZOS6ry6pfhwBjQ&sa=X&ved=2ahUKEwi3kZuag7rnAhWzH7cAHcC2C0AQ9QEwHHoECAkQBQ#imgrc=As8I43MoDsx2yM
+
+How threads work: more details
+https://www.javamex.com/tutorials/threads/how_threads_work.shtml
+
+POSIX Threads Programming
+https://computing.llnl.gov/tutorials/pthreads/
+
+Coloured letters in output - C++ Forum
+http://www.cplusplus.com/forum/beginner/77879/
+
+xcode - Colored output in C++ - Stack Overflow
+https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263
+
+How to: Use Anonymous Pipes for Local Interprocess Communication | Microsoft Docs
+https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-use-anonymous-pipes-for-local-interprocess-communication
+
+named pipes - Google Search
+https://www.google.com/search?q=named+pipes&rlz=1C1GCEB_enIN878IN878&oq=named+pipe&aqs=chrome.0.0j69i57j0l6.1479j0j7&sourceid=chrome&ie=UTF-8
+
+Beginner's Guide To Concurrent Programming | Toptal
+https://www.toptal.com/software/introduction-to-concurrent-programming
+
+Critical Section Objects - Win32 apps | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/win32/sync/critical-section-objects
+
+c++ - Bind mutex to object - Stack Overflow
+https://stackoverflow.com/questions/44904638/bind-mutex-to-object
+
+CATOmxMutex.cpp
+http://dsxplore.dsone.3ds.com/mashup-ui/page/codeview?file=%2Fu%2Flego%2FR423rel%2FBSFSRC%2FObjectModelerCollection%2FCATOmxKernel.m%2Fsrc%2FCATOmxMutex.cpp&ciWords=mutex&csWords=#LN0
+
+Better performance through threading  |  Android Developers
+https://developer.android.com/topic/performance/threads#java
+
+concurrency - How does a C++ std::mutex bind to a resource? - Stack Overflow
+https://stackoverflow.com/questions/39372486/how-does-a-c-stdmutex-bind-to-a-resource
+
+Using Critical Section Objects - Win32 apps | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/win32/sync/using-critical-section-objects
+
+c++ - Why I cannot cout a string? - Stack Overflow
+https://stackoverflow.com/questions/6320995/why-i-cannot-cout-a-string
+
+self healing - Google Search
+https://www.google.com/search?q=self+healing&rlz=1C1GCEB_enIN878IN878&oq=self+healing&aqs=chrome..69i57j0l7.1679j0j7&sourceid=chrome&ie=UTF-8
+
+AlphaGo | DeepMind
+https://deepmind.com/research/case-studies/alphago-the-story-so-far
+
+Reentrance Lockout
+http://tutorials.jenkov.com/java-concurrency/reentrance-lockout.html
+
+Thank You for Downloading Eclipse | The Eclipse Foundation
+https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-12/R/eclipse-java-2019-12-R-win32-x86_64.zip&mirror_id=1039
+
+SendMessage function (winuser.h) - Win32 apps | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendmessage
+
+New-SystemMessage
+https://docs.microsoft.com/en-us/powershell/module/exchange/mail-flow/new-systemmessage?view=exchange-ps
+
+Method and Block Synchronization in Java - GeeksforGeeks
+https://www.geeksforgeeks.org/method-block-synchronization-java/
+
+thread run - Google Search
+https://www.google.com/search?q=thread+run&rlz=1C1GCEB_enIN878IN878&oq=thread+run+&aqs=chrome..69i57l2j69i59l3j69i60l3.1399j0j7&sourceid=chrome&ie=UTF-8
+
+async await - Google Search
+https://www.google.com/search?q=async+await&rlz=1C1GCEB_enIN878IN878&oq=async+await+&aqs=chrome..69i57j0l7.3767j0j7&sourceid=chrome&ie=UTF-8
+
+Keep the UI thread responsive - UWP applications | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/keep-the-ui-thread-responsive
+
+pipe() System call - GeeksforGeeks
+https://www.geeksforgeeks.org/pipe-system-call/
+
+linux - IPC performance: Named Pipe vs Socket - Stack Overflow
+https://stackoverflow.com/questions/1235958/ipc-performance-named-pipe-vs-socket
+
+(69) Why does Netflix use TCP and not UDP for its streaming video? - Quora
+https://www.quora.com/Why-does-Netflix-use-TCP-and-not-UDP-for-its-streaming-video
+
+RTsP vs tcp - Google Search
+https://www.google.com/search?safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNTRcRBNqHtggyo9N4qUjIJ8dgMlqA%3A1580973262878&ei=zrw7XtCQNdS0mgfqh4aACQ&q=RTsP+vs+tcp&oq=RTsP+vs+tcp&gs_l=psy-ab.3..0j0i22i30l3.4901.6308..6564...0.2..0.121.767.0j7......0....1..gws-wiz.......0i71j0i67j0i20i263.yXr5yg-5gbE&ved=0ahUKEwjQr-6tsLznAhVUmuYKHeqDAZAQ4dUDCAs&uact=5
+
+Download and Installation From Windows [Win-builds]
+http://win-builds.org/doku.php/download_and_installation_from_windows
+
+Java IO: Pipes
+http://tutorials.jenkov.com/java-io/pipes.html
+
+Constructors in Java - GeeksforGeeks
+https://www.geeksforgeeks.org/constructors-in-java/
+
+Inter Process Communication - Pipes - Tutorialspoint
+https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_pipes.htm
+
+c++ - Is there a replacement for unistd.h for Windows (Visual C)? - Stack Overflow
+https://stackoverflow.com/questions/341817/is-there-a-replacement-for-unistd-h-for-windows-visual-c
+
+How to Create Your Own C++ Pipe - Fluent C++
+https://www.fluentcpp.com/2019/10/04/the-tee-pipe-a-tutorial-example-of-adding-a-pipe-the-pipes-library/
+
+An Overview of Unix Kernels - Understanding the Linux Kernel, Second Edition [Book]
+https://www.oreilly.com/library/view/understanding-the-linux/0596002130/ch01s06.html
+
+message driven vs. event driven approaches to application integration - Stack Overflow
+https://stackoverflow.com/questions/1659351/message-driven-vs-event-driven-approaches-to-application-integration
+
+asynchroous UI - Google Search
+https://www.google.com/search?q=asynchroous+UI&rlz=1C1GCEB_enIN878IN878&oq=asynchroous+UI&aqs=chrome..69i57j0l7.3111j1j7&sourceid=chrome&ie=UTF-8
+
+If Javascript Is Single Threaded, How Is It Asynchronous? - DEV Community 👩‍💻👨‍💻
+https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd
+
+Using the WebAssembly JavaScript API - WebAssembly | MDN
+https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API
+
+design patterns - Ways to eliminate switch in code - Stack Overflow
+https://stackoverflow.com/questions/126409/ways-to-eliminate-switch-in-code
+
+Java Array: Declare, Initialize and Access Array With Examples
+https://www.programiz.com/java-programming/arrays
+
+JavaScript for Loop
+https://www.w3schools.com/js/js_loop_for.asp
+
+Map - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
+
+Map Interface in Java - GeeksforGeeks
+https://www.geeksforgeeks.org/map-interface-java-examples/
+
+Polymorphism - C++ Tutorials
+http://www.cplusplus.com/doc/tutorial/polymorphism/
+
+Generics in Java - GeeksforGeeks
+https://www.geeksforgeeks.org/generics-in-java/
+
+Difference Between Interface and Abstract Class - Javapapers
+https://javapapers.com/core-java/abstract-and-interface-core-java-2/difference-between-a-java-interface-and-a-java-abstract-class/
+
+java - Implements vs extends: When to use? What's the difference? - Stack Overflow
+https://stackoverflow.com/questions/10839131/implements-vs-extends-when-to-use-whats-the-difference
+
+Factory Method Design Pattern - Javatpoint
+https://www.javatpoint.com/factory-method-design-pattern
+
+RTTI (Run-time type Information) in C++ - GeeksforGeeks
+https://www.geeksforgeeks.org/g-fact-33/
+
+factory in java with acount - Google Search
+https://www.google.com/search?q=factory+in+java+with+acount&rlz=1C1GCEB_enIN878IN878&oq=factory+in+java+with+acount&aqs=chrome..69i57j33l2.4607j0j7&sourceid=chrome&ie=UTF-8
+
+vin20784/vinzrepo: understandremorepo
+https://github.com/vin20784/vinzrepo
+
+git - Wiktionary
+https://en.wiktionary.org/wiki/git
+
+dependency injection - Google Search
+https://www.google.com/search?q=dependency+injection&rlz=1C1GCEB_enIN878IN878&tbm=isch&source=iu&ictx=1&fir=ukwTGXxcJAHwCM%253A%252CZDZe9JN3C76jCM%252C_&vet=1&usg=AI4_-kQzjJiXtJIQH57oemRRBHwcGp5RWA&sa=X&ved=2ahUKEwitzLbfkr_nAhUXIbcAHXqKDOsQ_h0wAHoECAgQBA#imgrc=PTcrZ_me-bEXfM
+
+AngularJS: Developer Guide: Dependency Injection
+https://docs.angularjs.org/guide/di
+
+EGit/User Guide - Eclipsepedia
+https://wiki.eclipse.org/EGit/User_Guide
+
+Module 7: Accessing DOM with JavaScript - online presentation
+https://en.ppt-online.org/83335
+
+vinzrepo/function_as_constructor.js at master · vin20784/vinzrepo
+https://github.com/vin20784/vinzrepo/blob/master/function_as_constructor.js
+
+Object prototypes - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+
+Console.table() - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+
+Prototype in JavaScript - GeeksforGeeks
+https://www.geeksforgeeks.org/prototype-in-javascript/
+
+JavaScript Classes
+https://www.w3schools.com/js/js_classes.asp
+
+How to simplify your codebase with map(), reduce(), and filter() in JavaScript
+https://www.freecodecamp.org/news/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f/
+
+Magic Square -- from Wolfram MathWorld
+http://mathworld.wolfram.com/MagicSquare.html
+
+variable args - Google Search
+https://www.google.com/search?q=variable+args&rlz=1C1GCEB_enIN878IN878&oq=variable+args&aqs=chrome..69i57j0l7.2167j1j7&sourceid=chrome&ie=UTF-8
+
+JavaScript Function Parameters
+https://www.w3schools.com/js/js_function_parameters.asp
+
+[Javascript] Pass By Value And Pass By Reference In JavaScript
+https://medium.com/nodesimplified/javascript-pass-by-value-and-pass-by-reference-in-javascript-fcf10305aa9c
+
+Passing by Value vs. by Reference Visual Explanation with animations and diagrams
+https://www.mathwarehouse.com/programming/passing-by-value-vs-by-reference-visual-explanation.php
+
+JavaScript Type Conversions
+https://www.w3schools.com/js/js_type_conversion.asp
+
+Linked Lists in JavaScript (ES6 code) - codeburst
+https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3
+
+Rest parameters - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+
+Javascript's three dots ( ... ): Spread vs rest operators ― Scotch.io
+https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543
+
+steph on Twitter: "Ever been confused what those 3 dots (...) represent in #JavaScript? Did you know it represents 2 different uses: spread operator &amp; rest parameter? I made a #sketchnote so I could understand it better! https://t.co/Uwfrzsanvz" / Twitter
+https://twitter.com/stephaniecodes/status/1029453269242990594
+
+steph on Twitter: "Ever been confused what those 3 dots (...) represent in #JavaScript? Did you know it represents 2 different uses: spread operator &amp; rest parameter? I made a #sketchnote so I could understand it better! https://t.co/Uwfrzsanvz" / Twitter
+https://twitter.com/stephaniecodes/status/1029453269242990594
+
+Copy URLs Of All Open Tabs In All Browsers [Chrome, Firefox, Opera, IE]
+https://www.itechtics.com/copy-urls-of-all-open-tabs-in-all-browsers-chrome-firefox-opera-ie/
+
+TabCopy - Chrome Web Store
+https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb
+
+New Tab
+chrome-search://local-ntp/local-ntp.html
