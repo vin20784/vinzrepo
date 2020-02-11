@@ -53,3 +53,16 @@ _steve.print();
 console.table(_bill);
 console.table(_steve);
 
+// this is to test for in for of on object iteration
+for (var val in _steve) {
+    console.log(val);
+}
+
+for (var val of _steve) {
+    console.log(val);
+}
+
+// test property descriptors
+
+
+
