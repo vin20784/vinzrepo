@@ -9,7 +9,7 @@ console.log(l(6));
 // closure : is a scope like global and local in JS
 //when external var are accesed in func
 var balance = 0;
-/*function deposit(amt) {
+function deposit(amt) {
     balance = 10;
     balance += amt;
     return balance;
@@ -17,26 +17,27 @@ var balance = 0;
 console.log(deposit(600));
 //var balance = 0;
 //balance = 100;
-console.log(balance);*/
+console.log(balance);
 
-/*function print() {
+function print() {
 
     var name = 'hi'
-    console.log(name);
+    //console.log(name);
+    alert(name);
     return name;
 
 }
 print();
-*/
+
 
 
 //function init() {
-var name = 'Mozilla'; // name is a local variable created by init
+/*var name = 'Mozilla'; // name is a local variable created by init
 function displayName() { // displayName() is the inner function, a closure
     console.log(name);
     return displayName; // use variable declared in the parent function
 }
-displayName();
+displayName();*/
 //}
 //init();
 
