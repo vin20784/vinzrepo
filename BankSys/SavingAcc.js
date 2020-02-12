@@ -11,10 +11,7 @@ class SavingAcc extends accB.bAcc {
         this.minBal = 100;// min bal 100 rs
 
     }
-    deposit(AmtDep) {
-         balance += AmtDep;
-    }
-
+    
     withdraw(AmtWithdraw) {
 
 
@@ -22,6 +19,7 @@ class SavingAcc extends accB.bAcc {
 
 };
 
+//let obj = new accB.bAcc(908,'foo',678,'ko'); //abstract calss cannot be instantiated
 let SAcc = new SavingAcc(26354, 'vinz', 10000);
 
 console.table(SAcc);

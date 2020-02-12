@@ -1,12 +1,11 @@
 
-
 class Account {
 
     constructor(AccNumber, AccHoldName, balance, transaction) {
 
-        /*if (this.constructor == Account) {
+        if (this.constructor == Account) {
             throw new Error("Abstract classes can't be instantiated.");
-        }*/
+        }
         this.AccNumber = AccNumber;
         this.AccHoldName = AccHoldName;
         this.balance = balance;
@@ -15,7 +14,7 @@ class Account {
     deposit(AmtDep) {
         //throw new Error("Method 'deposit()' must be implemented.");
         //balance += AmtDep;
-        console.log("test");
+        this.balance += AmtDep;
     }
 
     withdraw(AmtWithdraw) {
@@ -25,6 +24,8 @@ class Account {
 
 
 module.exports.bAcc = Account;
+
+let obj = new Account(908,'foo',678,'ko');
 
 
 
