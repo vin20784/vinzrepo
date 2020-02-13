@@ -11,12 +11,8 @@ class SavingAcc extends accB.bAcc {
         this.minBal = 100;// min bal 100 rs
 
     }
-    deposit(AmtDep) {
-         balance += AmtDep;
-    }
 
     withdraw(AmtWithdraw) {
-
 
     }
 
@@ -27,4 +23,5 @@ let SAcc = new SavingAcc(26354, 'vinz', 10000);
 console.table(SAcc);
 
 SAcc.deposit(50);
+console.table(SAcc);
 

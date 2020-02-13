@@ -1,0 +1,55 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Form </title>
+</head>
+
+<body>
+    <form action="./index.html" method="GET">
+        First name:
+        <input type="text" name="firstname" value="Vinayak">
+        <br>
+        Last name:
+        <input type="text" name="lastname" value="Nayak">
+        <br>
+        <br>
+
+        Gender:<br>
+
+        <input type="radio" name="gender" value="male" checked> Male<br>
+        <input type="radio" name="gender" value="female"> Female<br>
+        <input type="radio" name="gender" value="other"> Other <br>
+
+        <br>
+
+        <label for="City">Choose a city:</label>
+        <select id="city" name="city">
+            <option value="pune">Pune</option>
+            <option value="mumbai">Mumbai</option>
+            <option value="nashik">Nashik</option>
+            <option value="nagpur">Nagpur</option>
+        </select>
+
+
+        <br><br>
+
+        Subscribe:<br>
+        <input type="checkbox" name="checkinb1" value="Newsletter">
+        <label for="checkinb1"> Newsletter</label><br>
+        <input type="checkbox" name="checkinb2" value="Magazine">
+        <label for="checkinb2"> Magazine</label><br>
+        <input type="checkbox" name="checkinb3" value="Marketing material" checked>
+        <label for="checkinb3"> Marketing material</label><br><br>
+
+
+        <textarea rows="4" cols="35" name="comment" form="usrform">
+        Enter text here...</textarea>
+
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>
