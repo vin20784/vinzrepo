@@ -296,3 +296,192 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 
 New Tab
 chrome-search://local-ntp/local-ntp.html
+
+vin20784/myTypeScriptRepo: i learn type sccript over js here
+https://github.com/vin20784/myTypeScriptRepo
+
+New Tab
+chrome://newtab/
+
+Closures - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+performance - JavaScript closures and memory management - Stack Overflow
+https://stackoverflow.com/questions/21614895/javascript-closures-and-memory-management
+
+In Node.js, how to import functions from another JavaScript file? - SysTutorials
+https://www.systutorials.com/241622/in-node-js-how-to-import-functions-from-another-javascript-file/
+
+How to use module.exports in Node.js
+https://stackabuse.com/how-to-use-module-exports-in-node-js/
+
+How to use module.exports in Node.js
+https://stackabuse.com/how-to-use-module-exports-in-node-js/
+
+Object initializer - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer
+
+IIFE - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
+New Tab
+chrome://newtab/
+
+Understanding This, Bind, Call, and Apply in JavaScript – Tania Rascia
+https://www.taniarascia.com/this-bind-call-apply-javascript/
+
+oop - How do I create an abstract base class in JavaScript? - Stack Overflow
+https://stackoverflow.com/questions/597769/how-do-i-create-an-abstract-base-class-in-javascript
+
+JavaScript Increment ++ and Decrement -- - codeburst
+https://codeburst.io/javascript-increment-and-decrement-8c223858d5ed
+
+Class basic syntax
+https://javascript.info/class
+
+Implementing Private and Protected Members in JavaScript — Philip Walton
+https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/
+
+Classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+Create an Array of Objects | Practice Object Literals in JavaScript | Treehouse
+https://teamtreehouse.com/library/create-an-array-of-objects
+
+Using Constants with Arrays and Objects | Defining Variables with let and const | Treehouse
+https://teamtreehouse.com/library/using-constants-with-arrays-and-objects
+
+Class inheritance
+https://javascript.info/class-inheritance
+
+oop - How to inherit from a class in javascript? - Stack Overflow
+https://stackoverflow.com/questions/2107556/how-to-inherit-from-a-class-in-javascript
+
+Daily Developer Tips | Go Make Things
+https://gomakethings.com/articles/
+
+Difference Between =, == And === In JavaScript
+https://www.c-sharpcorner.com/article/difference-between-and-in-javascript2/
+
+JavaScript | Type Conversion - GeeksforGeeks
+https://www.geeksforgeeks.org/javascript-type-conversion/
+
+JavaScript type coercion explained
+https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/
+
+Higher-order functions in Javascript - DEV Community 👩‍💻👨‍💻
+https://dev.to/damcosset/higher-order-functions-in-javascript-4j8b
+
+promise in js - Google Search
+https://www.google.com/search?q=promise+in+js&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNRRzVwhpW-6NV3Y0vWAEBVA-NgksA:1581499253301&tbm=isch&source=iu&ictx=1&fir=iSl9IUNMyNx-mM%253A%252C-0TFsZsXOAec5M%252C_&vet=1&usg=AI4_-kR2-nyjFxs9TZf45vc4DLD9DE45Zw&sa=X&ved=2ahUKEwjNiNLp18vnAhWDjeYKHa7pD3gQ_h0wAHoECAgQBA#imgrc=iSl9IUNMyNx-mM
+
+Promise - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+Using Promises - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+
+JavaScript Promises: an Introduction  |  Web Fundamentals
+https://developers.google.com/web/fundamentals/primers/promises
+
+JavaScript Promises: an Introduction  |  Web Fundamentals
+https://developers.google.com/web/fundamentals/primers/promises#whats-all-the-fuss-about
+
+Getting some urls for content, then fetching that content & adding it to the page sequentially. Promises vs node style callbacks vs events.
+https://gist.github.com/jakearchibald/0e652d95c07442f205ce
+
+Promise
+https://javascript.info/promise-basics
+
+Express - Node.js web application framework
+https://expressjs.com/
+
+git - What is the difference between GitHub and gist? - Stack Overflow
+https://stackoverflow.com/questions/6767518/what-is-the-difference-between-github-and-gist
+
+TypeScript - JavaScript that scales.
+https://www.typescriptlang.org/#download-links
+
+TypeScript Language Specification
+file:///C:/Users/Induction/Downloads/TypeScript%20Language%20Specification.pdf
+
+async function - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+
+Download Postman App
+https://www.postman.com/downloads/
+
+Postman - Browser Based Auth
+https://identity.getpostman.com/browser-auth/success
+
+What happens when we hit URL in Browser?
+https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/
+
+ccTLDs: a list of every country domain - IONOS
+https://www.ionos.co.uk/digitalguide/domains/domain-extensions/cctlds-a-list-of-every-country-domain/
+
+Fiddler4
+https://www.telerik.com/download/fiddler/fiddler4
+
+First run
+https://www.telerik.com/download/fiddler/first-run
+
+Headers Reference
+https://docs.telerik.com/fiddler/knowledgebase/headers
+
+Illustrated.dev
+https://illustrated.dev/es2019
+
+An Introduction to JavaScript
+https://javascript.info/intro
+
+illustrated node.js - Google Search
+https://www.google.com/search?q=illustrated+node.js&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNTWEbBV3-64cOgvizjRXQEhMTdJaA:1581569541485&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_p9TV3c3nAhV983MBHZMPBFoQ_AUoAXoECAwQAw&biw=1280&bih=913#imgrc=aDzVybqvQmpEMM
+
+Node.js - DZone - Refcardz
+https://dzone.com/refcardz/nodejs?chapter=3
+
+[SIT Belgium 2019 Recap] Debugging Node.js Applications in SCP CF. Part 1: Remote Debugging – Environment Preparation and General Techniques | SAP Blogs
+https://blogs.sap.com/2019/05/22/sit-belgium-2019-recap-debugging-node.js-applications-in-scp-cf.-part-1-remote-debugging-environment-preparation-and-general-techniques/
+
+How Node Event Loop REALLY Works: Or Why Most of the Event Loop Diagrams are WRONG | webapplog [tech blog]
+https://webapplog.com/event-loop/
+
+angular js nodejs - Google Search
+https://www.google.com/search?q=angular+js+nodejs&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNR4kaxMqDK94UkWPzJVmAe3VFESNw:1581569923444&tbm=isch&source=iu&ictx=1&fir=JYQp43V1AJR4hM%253A%252CgFCroAqLvQyddM%252C_&vet=1&usg=AI4_-kROjEOwvlzwu8YKBwgemNSumqFFXg&sa=X&ved=2ahUKEwi0m-WL383nAhU98HMBHQ0mDysQ_h0wBHoECAkQDA#imgrc=hlUT0V4PbBCmmM
+
+dynamic page html illustrated - Google Search
+https://www.google.com/search?q=dynamic+page+html+illustrated&tbm=isch&ved=2ahUKEwj9i_fz4M3nAhV0yXMBHZPTD30Q2-cCegQIABAA&oq=dynamic+page+html+illustrated&gs_l=img.3...4797.5323..5482...0.0..0.114.508.2j3......0....1..gws-wiz-img.......35i39.QVuuvKG05iM&ei=atlEXv2uEPSSz7sPk6e_6Ac&bih=913&biw=1280&rlz=1C1GCEB_enIN878IN878&safe=active#imgrc=4OHw0ukFhPB8xM
+
+Internet Server Application Programming Interface - Wikipedia
+https://en.wikipedia.org/wiki/Internet_Server_Application_Programming_Interface
+
+IIS 7.0 Architecture And Integration With Asp.Net
+https://www.slideshare.net/mannysiddiqui/IIS-70-Architecture-and-Integration-with-ASPNET
+
+DSxR&D Authoring
+https://dsxdev-online.dsone.3ds.com/enovia/common/emxNavigator.jsp;jsessionid=36623B310A86102FD09A8113536E214F
+
+Client-side vs. server-side rendering: why it’s not all black and white
+https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/
+
+A Pen by Captain Anonymous
+https://codepen.io/pen
+
+Express/Node introduction - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+process map of application server - Google Search
+https://www.google.com/search?q=process+map+of+application+server&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNSEaHRH30c3QaPcd5p4yTvKJCON6Q:1581573701605&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-hK6V7c3nAhXc63MBHbgtDq4Q_AUoAXoECA4QAw&biw=1280&bih=913#imgrc=aPOiYUI3Q_7KWM
+
+webserver - What is the difference between application server and web server? - Stack Overflow
+https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server
+
+Red Hat Developer | Red Hat JBoss Enterprise Application Platform Overview
+https://developers.redhat.com/products/eap/overview
+
+Apache Tomcat® - Welcome!
+http://tomcat.apache.org/
+
+what is web server - Google Search
+https://www.google.com/search?q=what+is+web+server&tbm=isch&ved=2ahUKEwikxbCP9c3nAhVM5nMBHXTMApYQ2-cCegQIABAA&oq=what+is+web+server&gs_l=img.3..0l6j0i8i30l4.183498.186414..186550...0.0..0.123.1902.0j17......0....1..gws-wiz-img.......35i39j0i67j0i131j0i10.0d_39rCH7Ao&ei=nO5EXqSHIczMz7sP9JiLsAk&rlz=1C1GCEB_enIN878IN878&safe=active#imgrc=EXD5p8KJ3fP2rM&imgdii=4NsI5HJ0sSUqbM
