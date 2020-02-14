@@ -1,0 +1,61 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="para1"> para1</p>
+    <p id="para2"> para2</p>
+    <p id="para3"> para3</p>
+
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+
+   
+
+    <div id="div1" onclick="alert('div1')">
+        <p id="p1">This is a paragraph from div1.</p>
+        <p id="p2">This is another paragraph from div1.</p>
+        <div id="div2" onclick="alert('div2')">
+            <p id="p3">This is a paragraph from div2.</p>
+            <p id="p4">This is another paragraph from div2.</p>
+            <div id="div3" onclick="alert('div3')">
+                <p id="p5">This is a paragraph from div3.</p>
+                <p id="p6">This is another paragraph from div3.</p>
+            </div>
+        </div>
+    </div>
+
+
+    <p id="para4"> para4</p>
+    <p name="paraname5"> paraname5</p>
+    <p class="classpara6"> classpara6</p>
+
+    <div id="div22">im in division 1</div>
+    <br>
+    <form id="myform">
+
+        <input type="text">input text <br>
+    </form>
+    <button onclick="myFunction()">RUN it</button><br><br>
+    <button onclick="changeallpara()">RUN parait</button><br><br>
+    <button onclick="changename('paraname5')">RUN chname</button><br><br>
+    <button onclick="changeclass('classpara6')">RUN chclass</button><br><br>
+    <br><br>
+    <button onclick="addsomenodes()">AddNodes</button>
+    <br><br>
+    <button id="myBtn">Try testing add eventlistener </button>
+
+
+    <script src="myscript.js"></script>
+
+</body>
+
+</html>
