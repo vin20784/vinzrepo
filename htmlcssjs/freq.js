@@ -14,3 +14,13 @@ function playNotefreq(e) {
     o.stop(context.currentTime + 0.5);
 
 }
+
+function test(){
+
+    let a = 10;
+    let b = a;
+    a=0;
+    //alert ("a="+a);
+    //alert ("b="+b);
+
+}
