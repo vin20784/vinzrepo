@@ -1,0 +1,167 @@
+Yet Another REST Client
+https://yet-another-rest-client.com/
+
+learn html by example - Google Search
+https://www.google.com/search?q=learn+html+by+example&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNSxDY5OwCcuEGhq11k4r46ofm5dPw:1581591973163&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKtvWdsc7nAhXvxzgGHchTD2wQ_AUoAnoECBAQBA&biw=1280&bih=913#imgrc=e72seTJe8UkV0M
+
+Learn HTML & CSS - a book that teaches you in a nicer way
+http://www.htmlandcssbook.com/sample-chapter/
+
+Tryit Editor v3.6
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_sel_class_more2
+
+Document
+file:///C:/Users/Induction/NewGitHOME/testgithub/vinzrepo/htmlcssjs/styles.html
+
+New Tab
+chrome://newtab/
+
+Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
+How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks
+https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#DOM
+
+Controlling Frequency and Pitch (Learn Web Audio from the Ground Up, Part 2)
+https://teropa.info/blog/2016/08/10/frequency-and-pitch.html
+
+MySQL :: Begin Your Download
+https://dev.mysql.com/downloads/file/?id=492434
+
+The most popular database for modern apps | MongoDB
+https://www.mongodb.com/
+
+architecture of db mysql - Google Search
+https://www.google.com/search?q=architecture+of+db+mysql&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNT5jUs18STioJBlBCn763_28SJ6Qw:1581912882509&tbm=isch&source=iu&ictx=1&fir=7CWhNHy5LqceDM%253A%252CW30PbpZyur953M%252C_&vet=1&usg=AI4_-kTzO9ojclDnojO84sJ1W9em1DBHgQ&sa=X&ved=2ahUKEwjBvbXb3NfnAhWi7XMBHXHqBpUQ_h0wAnoECAgQCA#imgrc=VCJk81UAlbHxYM
+
+The generic conceptual semantic big data architecture   | Download Scientific Diagram
+https://www.researchgate.net/figure/The-generic-conceptual-semantic-big-data-architecture_fig1_283815607
+
+mysql flow chart - Google Search
+https://www.google.com/search?q=mysql+flow+chart&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNTY9Vq_M38mN3MqqmDy-aptWTZK7Q:1581912991017&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjJmJSP3dfnAhVNH7cAHXb0AEMQ_AUoAXoECA4QAw&biw=1280&bih=913#imgrc=c2UrHPOULhGE_M
+
+MySQL :: MySQL 8.0 Reference Manual
+https://dev.mysql.com/doc/refman/8.0/en/sql-syntax.html
+
+(8) Medidata Solutions: Overview | LinkedIn
+https://www.linkedin.com/company/medidata-solutions/
+
+mysql - Why does InnoDB store all databases in one file? - Database Administrators Stack Exchange
+https://dba.stackexchange.com/questions/15531/why-does-innodb-store-all-databases-in-one-file
+
+Home | Pluralsight
+https://app.pluralsight.com/library/
+
+sql query mind map - Google Search
+https://www.google.com/search?q=sql+query+mind+map&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNREFLFdOg1R2RuuVhNfr4kV76KkXg:1581927645561&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv1P7ak9jnAhUEg-YKHfv9AFIQ_AUoAXoECA4QAw&biw=1280&bih=913#imgrc=ZejyVByK0wdZMM&imgdii=xy2VFPJJ9uNXkM
+
+(446) Pinterest
+https://in.pinterest.com/pin/365706432215035476/
+
+A Beginner's Guide to SQL
+https://learntocodewith.me/posts/sql-guide/
+
+Mind Map – SQLpathy
+https://sqlpathy.com/category/mind-map/
+
+Head First SQL | Free eBooks Download | Downloads IT eBooks
+https://ebookslobby.blogspot.com/2017/03/maybe-youve-written-some-simple-sql.html
+
+Head First PHP & MySQL | Free eBooks Download | Downloads IT eBooks
+https://ebookslobby.blogspot.com/2017/03/head-first-php-mysql.html
+
+OReilly.Head.First.PHP.and.MySQL.Dec.2008.pdf
+file:///C:/Users/Induction/Downloads/OReilly.Head.First.PHP.and.MySQL.Dec.2008.pdf
+
+You searched for sql - Programmer Books
+https://www.programmer-books.com/?s=sql
+
+daat basev iewer mysql - Google Search
+https://www.google.com/search?safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNSo4R8cQWuXMmv9r1RjlGEcV93rhA%3A1581931362136&ei=YltKXtD2B5fYz7sPkLuu8AU&q=daat+basev+iewer+mysql&oq=daat+basev+iewer+mysql&gs_l=psy-ab.3..33i160l2.1461.2578..2723...0.2..0.182.800.0j5......0....1..gws-wiz.......0i71j0i13j0i8i13i30.r3WK02S2uEM&ved=0ahUKEwjQr5jHodjnAhUX7HMBHZCdC14Q4dUDCAs&uact=5
+
+Difference Between OLTP and OLAP (with Comparison Chart) - Tech Differences
+https://techdifferences.com/difference-between-oltp-and-olap.html
+
+N Tier(Multi-Tier), 3-Tier, 2-Tier Architecture with EXAMPLE
+https://www.guru99.com/n-tier-architecture-system-concepts-tips.html
+
+PL/SQL Tutorial - Tutorialspoint
+https://www.tutorialspoint.com/plsql/index.htm
+
+mysql workbench - Google Search
+https://www.google.com/search?q=mysql+workbench&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNRhZK8hsi3f_0f6BWnHRuZFGylthQ:1582000813869&tbm=isch&source=iu&ictx=1&fir=RG9ZRXuoarINMM%253A%252CeV51RI25M2WzxM%252C_&vet=1&usg=AI4_-kTLRoBWbPL5JSyqAajZiK0XTBnn4Q&sa=X&ved=2ahUKEwiu2q2kpNrnAhUjguYKHU1zBnoQ_h0wHnoECAgQBw#imgrc=RG9ZRXuoarINMM
+
+best practices - What is more efficient, a where clause or a join with million plus row tables? - Database Administrators Stack Exchange
+https://dba.stackexchange.com/questions/3480/what-is-more-efficient-a-where-clause-or-a-join-with-million-plus-row-tables
+
+SQL LEFT JOIN Keyword
+https://www.w3schools.com/sql/sql_join_left.asp
+
+SQL Tryit Editor v1.6
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_join_left
+
+SQL Tryit Editor v1.6
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_join_left
+
+IntervalMatch ‒ QlikView
+https://help.qlik.com/en-US/qlikview/April2019/Subsystems/Client/Content/QV_QlikView/Scripting/ScriptPrefixes/IntervalMatch.htm
+
+Join algorithms in Database - GeeksforGeeks
+https://www.geeksforgeeks.org/join-algorithms-in-database/
+
+SQL Stored Procedures
+https://www.w3schools.com/sql/sql_stored_procedures.asp
+
+How To Automate Your Database Using Triggers and Events
+https://www.sitepoint.com/database-triggers-events/
+
+DDL Triggers - SQL Server | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/relational-databases/triggers/ddl-triggers?view=sql-server-ver15
+
+MySQL :: MySQL 8.0 Reference Manual :: 24.1 Defining Stored Programs
+https://dev.mysql.com/doc/refman/8.0/en/stored-programs-defining.html
+
+MySQL DATABASE() Function
+https://www.w3schools.com/sql/func_mysql_database.asp
+
+Swift - Apple Developer
+https://developer.apple.com/swift/
+
+Installation — Vue Native
+https://vue-native.io/docs/installation.html
+
+GeekyAnts
+https://github.com/GeekyAnts
+
+html dom - Google Search
+https://www.google.com/search?q=html+dom&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNQcPJtAaYnLKUNuRZ-Ge4TdD1GgKg:1582020913777&tbm=isch&source=iu&ictx=1&fir=u-SJHMnZV8yt7M%253A%252C5Z2_7auAh313jM%252C%252Fm%252F02f7z&vet=1&usg=AI4_-kTtH2jo2TPH_IxwIk6HLFyqPSVHVQ&sa=X&ved=2ahUKEwie2d6U79rnAhUn4nMBHdK6DJAQ_B0wHnoECAsQAw#imgrc=BUm9GLJxXrNVkM
+
+What is the Document Object Model?
+https://www.w3.org/TR/DOM-Level-3-Core/introduction.html
+
+HTML DOM Div Object
+https://www.w3schools.com/jsref/dom_obj_div.asp
+
+PL/SQL - Cursors - Tutorialspoint
+https://www.tutorialspoint.com/plsql/plsql_cursors.htm
+
+Billing Management Console
+https://console.aws.amazon.com/billing/home?x-awsbc-xsrf-token=NG45bTlvdUJIWUpGb1lTZi1zQ2toR0twVC1fZjVqcUdDVWZVZXVOLW1Ta3wtNDk3MzI4MDA1MDA3NzkzNDIxNHwxfDIwMjAtMDItMTlUMDM6NDc6MDcuNTg5Wg%3D%3D&isFromThirdParty=true&paymentPlanID=amzn1.pplan.AQ.BA.AAABcFuO8dQ.1aI6HgNr5SBQMJQoYL0Lrg&decodedProcessorId=DataCash&signature=1112azeRDvxqRpE770baJXhdB#/costexplorer
+
+Billing Management Console
+https://console.aws.amazon.com/billing/home?region=us-east-1#/budgets
+
+Billing Management Console
+https://console.aws.amazon.com/billing/home?#/costexplorer
+
+AWS Serverless Apps Repository Management Console
+https://console.aws.amazon.com/serverlessrepo/home?region=us-east-1#/published-applications
+
+AWS Developer Forums: Initial Sign Up Date ...
+https://forums.aws.amazon.com/thread.jspa?threadID=100345
+
+xen hypervisor - Google Search
+https://www.google.com/search?q=xen+hypervisor&safe=active&rlz=1C1GCEB_enIN878IN878&sxsrf=ACYBGNTOcTeLEaxR-wo3XTSvv3R6suYesg:1582086523494&tbm=isch&source=iu&ictx=1&fir=V-bIx8_uMK5hYM%253A%252CQnmd8vLRLPoAoM%252C_&vet=1&usg=AI4_-kS9zDXWrlvPI_LqFB5gEgw7ZvGWOw&sa=X&ved=2ahUKEwi9h_LJ49znAhVgIDQIHVh5CesQ_h0wFXoECAwQBw#imgrc=V-bIx8_uMK5hYM:
+
+Xen Hypervisor
+https://www.slideshare.net/susheel2658/xen-training-sessions2009

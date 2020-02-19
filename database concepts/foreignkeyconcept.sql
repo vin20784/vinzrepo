@@ -32,10 +32,20 @@ INSERT INTO products(productName, categoryId)
 SET categoryId = 18
 WHERE categoryId = 1;*/
 
-DELETE from categories 
-where categoryId = 3;
+/*DELETE from categories 
+where categoryId = 3;*/
 
 
 
- select * from products;
- select * from categories;
+ /*select * from products;
+ select * from categories;*/
+ 
+ 
+ -- SHOW CREATE table products; // shows how it was craeted
+ 
+ /*alter table products 
+ drop foreign key fk_category;*/
+ 
+ /*show create table products;*/
+ 
+ drop table categories;
