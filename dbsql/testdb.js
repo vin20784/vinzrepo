@@ -11,8 +11,9 @@ let db = new sqlite3.Database('cwmsdb.db', (err) => {
   console.table(db);
 });
  
-//inserttable(db);
+inserttable(db);
 // close the database connection
+
 db.close((err) => {
   if (err) {
     return console.error(err.message);
